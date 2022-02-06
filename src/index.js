@@ -37,7 +37,7 @@ function keyTapByAction(action) {
     // robot.keyTap("enter");
 
     // 输入文字
-    for (let i = 800; i > 0; i--) {
+    for (let i = 900; i > 0; i--) {
       await delay(500);
       // console.log(sendData);
       // robot.typeString(sendData);
